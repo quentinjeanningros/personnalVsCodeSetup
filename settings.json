@@ -23,7 +23,7 @@
         "editorLink.activeForeground": "#EEFFFF",
         "selection.background": "#55BBD9",
         "progressBar.background": "#55BBD9",
-        "textLink.foreground": "#55BBD980",
+        "textLink.foreground": "#55BBD9",
         "textLink.activeForeground": "#EEFFFF",
         "widget.shadow": "#4A4A4A",
         "button.background": "#61616150",
